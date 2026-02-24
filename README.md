@@ -178,7 +178,29 @@ para garantir integridade.
 - Singleton (gerenciado pelo container Spring)
 - Strategy (possível aplicação para regras diferentes entre quadra e quiosque)
 
-**9. Planejamento por Entrega**
+**9. Organização da Dupla**  
+
+**Backend:**
+- Modelagem do banco
+- Implementação da API REST
+- Regras de negócio
+- Autenticação JWT
+- Controle transacional
+
+**Frontend:**
+- Desenvolvimento SPA em Angular
+- Telas de cadastro/login
+- Tela de agendamento
+- Consumo da API
+- Guards de autenticação
+
+**Ambos:**
+- Testes
+- Documentação
+- Deploy
+- Apresentação
+
+**10. Planejamento por Entrega**
 
 **N1**
 - Estrutura do projeto
